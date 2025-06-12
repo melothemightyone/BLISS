@@ -1,5 +1,6 @@
 # BLISS
 
+# New overhaul
 We introduced **Biomarker expression Level Imputation using Summary-level Statistics (BLISS)**, a novel method designed for developing protein imputation models using summary-level pQTL data. This software is to support our [gcb-hub](http://www.gcbhub.org) (see figure below) and creating large-scale imputations models for multi-ancestry proteome-wide association analysis. 
 
 ![BLISS_illustration](BLISS_illustration.png)
