@@ -5,13 +5,12 @@ We introduced **Biomarker expression Level Imputation using Summary-level Statis
 ![BLISS_illustration](BLISS_illustration.png)
 
 
-
 ## Installation
 
 There are two ways to install BLISS:
 
 ### Option 1: Stable Release. 
-Download the stable version (V1.0) of BLISS, along with all related data, from gcb-hub eith using this [link](https://gcbhub.s3.us-east-2.amazonaws.com/BLISS.zip) or
+Download the stable version (V1.0) of BLISS, along with all related data, from gcb-hub either using this [link](https://gcbhub.s3.us-east-2.amazonaws.com/BLISS.zip) or
 
 ```
 wget -c https://gcbhub.s3.us-east-2.amazonaws.com/BLISS.zip
